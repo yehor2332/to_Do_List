@@ -149,7 +149,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 20px;
   width: 20px;
   border-radius: 50%;
-  background-image: url(../img/unchecked.svg);
+  background-image: url(./unchecked.svg);
   background-size: cover;
   background-position: center;
   top: 2px;
@@ -160,7 +160,7 @@ h1, h2, h3, h4, h5, h6 {
   text-decoration: line-through;
 }
 .container .list-container ul li.checked::before {
-  background-image: url(../img/checked.svg);
+  background-image: url(./checked.svg);
 }
 .container .list-container ul li span {
   position: absolute;
